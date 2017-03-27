@@ -1,0 +1,6 @@
+*.class
+*.csv
+*.json
+*.pyc
+*.properties
+/target
